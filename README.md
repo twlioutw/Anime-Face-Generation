@@ -11,16 +11,16 @@ tensorflow==2.1.0
 
 
 <!-- <p align="center">
-  <img src="https://github.com/twlioutw/anime-face-generatrion/blob/main/images/5000.jpg" width="24%" />
-  <img src="https://github.com/twlioutw/anime-face-generatrion/blob/main/images/10000.jpg" width="24%"  /> 
-  <img src="https://github.com/twlioutw/anime-face-generatrion/blob/main/images/50000.jpg" width="24%"/>
-  <img src="https://github.com/twlioutw/anime-face-generatrion/blob/main/images/100000.jpg" width="24%"/>
+  <img src="https://github.com/twlioutw/Anime-Face-Generation/blob/main/images/5000.jpg" width="24%" />
+  <img src="https://github.com/twlioutw/Anime-Face-Generation/blob/main/images/10000.jpg" width="24%"  /> 
+  <img src="https://github.com/twlioutw/Anime-Face-Generation/blob/main/images/50000.jpg" width="24%"/>
+  <img src="https://github.com/twlioutw/Anime-Face-Generation/blob/main/images/100000.jpg" width="24%"/>
 </p>
  -->
 
 ## Results
 
-![](https://github.com/twlioutw/anime-face-generatrion/blob/main/images/5000.jpg) **5000 iterations** |  ![](https://github.com/twlioutw/anime-face-generatrion/blob/main/images/10000.jpg) **10000 iterations** | ![](https://github.com/twlioutw/anime-face-generatrion/blob/main/images/50000.jpg) **50000 iterations** | ![](https://github.com/twlioutw/anime-face-generatrion/blob/main/images/100000.jpg) **100000 iterations**
+![](https://github.com/twlioutw/Anime-Face-Generation/blob/main/images/5000.jpg) **5000 iterations** |  ![](https://github.com/twlioutw/Anime-Face-Generation/blob/main/images/10000.jpg) **10000 iterations** | ![](https://github.com/twlioutw/Anime-Face-Generation/blob/main/images/50000.jpg) **50000 iterations** | ![](https://github.com/twlioutw/Anime-Face-Generation/blob/main/images/100000.jpg) **100000 iterations**
 :--:|:--:|:--:|:--:
 <!--  **5000 iterations**| **10000 iterations** | **50000 iterations** | **100000 iterations** -->
 
